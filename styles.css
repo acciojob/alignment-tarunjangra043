@@ -4,6 +4,10 @@ table {
 	border-spacing: 1px;
 	padding: 1px;
 }
+td{
+	padding:1px;
+	border: 1px solid rgb(0,0,0);
+}
 .middle {
 	margin: 0 auto;
 }
